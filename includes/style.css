@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0px; padding:0px;}
+body#interface{background-color:#DDD;}
+a{text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-size:13px;}
+ul{list-style-type:none;}
+ul ul{display:none;}
+li:hover ul{display:block;}
+
+/* --------------- Header --------------- */
+
+/* 1er niveau */
+#interface_header ul{height:30px; background:url(images/interface_header_fond.png) repeat-x;}
+#interface_header ul li{float:left;}
+#interface_header ul li a{display:block; padding:0px 20px; height:30px; line-height:30px; color:#FFF;}
+#interface_header ul li a:hover{background-color:#FFF; color:#000;}
+
+/* 2ème niveau */
+#interface_header ul.niveau2{/*display:none;*/background:none;}
+#interface_header ul.niveau2 li{float:none;}
+#interface_header ul.niveau2 li a{background:url(images/interface_header_fond.png) repeat-x;}
+#interface_header ul.niveau2 li a:hover{background:none; background-color:#FFF;}
+
+
+
+#interface_section #navigation{width:200px; background-color:#FFF; border:1px solid #CCC; margin:20px 0px 0px 5px;}
+#interface_section #navigation li{}
+#interface_section #navigation a{display:block; height:30px; line-height:30px; color:#000; padding:10px 20px;}
+#interface_section #navigation a:hover{background-color:#CCC;}

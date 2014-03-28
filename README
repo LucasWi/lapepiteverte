@@ -1,0 +1,43 @@
+Configuration de GitHub :
+
+	http://rogerdudler.github.io/git-guide/index.fr.html
+	
+	Logiciel à télécharger : http://msysgit.github.io/
+
+	Génération des clés
+	https://help.github.com/articles/generating-ssh-keys
+
+	URL du projet à utiliser pour la configuration de github : https://github.com/Katara-John/Projet_Sierra.git
+	
+	
+The brain
+
+	The brain est un logiciel gratuit de mind mapping. C’est à dire que l’on peut regrouper l’ensemble de nos idées sous la forme d’une architecture en branche. (Lucas a commencé le mind mapping)
+
+	Identifiant : EquipedeSophie
+	Mot de passe : projet	
+
+	
+Serveur (Olympe)
+
+	URL du site : http://lapepiteverte.olympe.in
+	Le serveur est l’emplacement où le site est hébergé (le site Olympe (https://www.olympe.in/)). En l'occurrence, j’ai ouvert un serveur gratuitement. Si jamais vous souhaitez ouvrir un site un jour, cela peut vous aider au début.
+
+	Pour se connecter au compte olympe : https://www.olympe.in
+		utilisateur : groupedesophie
+		mot de passe : groupedesophie
+
+	Pour se connecter à la base de données : https://pma.olympe.in
+		utilisateur : zewAkDgy
+		mot de passe : lapepiteverte
+		
+		
+FTP (filezilla)
+
+	Un FTP est un logiciel qui permet d’envoyer nos fichiers sur notre serveur. Une fois les fichiers envoyés sur celui-ci (le serveur), vous pourrez constater vos modifications directement sur le web.  Je vous conseille de télécharger le FTP filezilla (totalement gratuit) pour récupérer les fichiers.
+
+	Hôte : ftp.olympe.in
+	port : 21
+	login type : normal
+	identifiant : lapepiteverte
+	mot de passe : lapepiteverte
